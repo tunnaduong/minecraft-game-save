@@ -891,6 +891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-02-11 16:13:19 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-02-11 16:10:37 +0700"

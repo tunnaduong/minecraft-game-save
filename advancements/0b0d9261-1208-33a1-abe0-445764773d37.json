@@ -773,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-02-11 16:10:56 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-02-11 13:51:57 +0700"
@@ -1326,6 +1332,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-02-11 13:45:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-02-11 16:10:56 +0700"
     },
     "done": true
   },
