@@ -459,8 +459,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-02-12 16:00:56 +0700",
       "minecraft:spider": "2024-02-11 13:43:49 +0700",
       "minecraft:zombie": "2024-02-11 13:42:14 +0700",
+      "minecraft:creeper": "2024-02-12 16:04:43 +0700",
       "minecraft:drowned": "2024-02-11 13:48:02 +0700",
       "minecraft:zombie_villager": "2024-02-11 13:47:07 +0700"
     },
@@ -1741,6 +1743,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-02-12 16:09:17 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-02-12 15:48:35 +0700"
@@ -1750,6 +1758,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-02-12 15:30:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-02-12 16:09:18 +0700"
     },
     "done": true
   },
@@ -1765,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-02-12 16:00:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-02-12 15:30:00 +0700"
@@ -1774,6 +1794,19 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-02-12 15:37:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-02-12 16:09:45 +0700",
+      "minecraft:warped_forest": "2024-02-12 16:09:48 +0700"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-02-12 16:09:44 +0700"
     },
     "done": true
   },
@@ -1789,9 +1822,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-02-12 16:09:17 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-02-12 15:45:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-02-12 16:09:44 +0700"
     },
     "done": true
   },
@@ -1942,6 +1987,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-02-12 15:30:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-02-12 16:10:27 +0700"
     },
     "done": true
   },
